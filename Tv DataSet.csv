@@ -1,0 +1,122 @@
+﻿Day_of_the_week,Show_name,Type_of_show,Start_time,End_time,Show_popularity,Viewers,Ad_revenue
+Monday,Afrosinema,Drama,12:00am,12:59am,Very Low,100000,60000
+Monday,Sunday Live,News,4:00am,5:29am,Low,500000,300000
+Monday,Pambazuka,Entertainment,5:30am,5:59am,Low,3000000,1800000
+Monday,Pe at Home,Workout,6:00am,9:59am,Moderate,1000000,600000
+Monday,Day Break,Talk,9:00am,9:59am,Low,5000000,3000000
+Monday,Cartoons,Kids,10:00am,12:59pm,Low,200000,120000
+Monday,Sema na citizen,Talk,1:00pm,1:59pm,Moderate,100000,60000
+Monday,News at 1,News,2:00pm,2:59pm,Moderate,11000000,6600000
+Monday,Mseto africa,Entertainment,3:00pm,3:59pm,Moderate,10000000,6000000
+Monday,Pe at home,Workout,4:00pm,4:14pm,Moderate,6000000,3600000
+Monday,News briefs,News,4:15pm,5:29pm,High,14000000,8400000
+Monday,Kali ni kali,Entertainment,5:30pm,5:29pm,High,10000000,6000000
+Monday,Inspecta Mwala,Kids,6:00pm,6:59pm,High,15000000,9000000
+Monday,Kenya's gold,Educational,7:00pm,7:59pm,Very High,7000000,4200000
+Monday,Nipashe TV,News,7:30pm,7:59pm,Very High,16000000,9600000
+Monday,Ayana,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Monday,Mines of Passion,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Monday,Aurora's quest,Drama,9:00pm,10:59pm,Very High,10000000,6000000
+Monday,Monday report,News,11:00pm,11:59pm,Moderate,3000000,1800000
+Tuesday,Afrosinema,Drama,12:00am,12:59am,Very Low,150000,90000
+Tuesday,Sunday Live ,News,4:00am,5:29am,Low,500000,300000
+Tuesday,Pambazuka,Entertainment,5:30am,5:59am,Low,3000000,1800000
+Tuesday,Pe at Home,Workout,6:00am,9:59am,Moderate,1000000,600000
+Tuesday,Day Break,Talk,9:00am,9:59am,Low,5000000,3000000
+Tuesday,Cartoons,Kids,10:00am,12:59pm,Low,200000,120000
+Tuesday,Sema na citizen,Talk,1:00pm,1:59pm,Moderate,100000,60000
+Tuesday,News at 1,News,2:00pm,2:59pm,Moderate,11000000,6600000
+Tuesday,Mseto africa,Entertainment,3:00pm,3:59pm,Moderate,10000000,6000000
+Tuesday,Pe at home,Workout,4:00pm,4:14pm,Moderate,6000000,3600000
+Tuesday,News briefs,News,4:15pm,5:29pm,High,14000000,8400000
+Tuesday,Kali ni kali,Entertainment,5:30pm,5:29pm,High,10000000,6000000
+Tuesday,Tahidi high,Kids,6:00pm,6:59pm,High,15000000,9000000
+Tuesday,Kenya's gold,Educational,7:00pm,7:59pm,Very High,7000000,4200000
+Tuesday,Nipashe TV,News,7:30pm,7:59pm,Very High,16000000,9600000
+Tuesday,Ayana,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Tuesday,Mines of Passion,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Tuesday,Aurora's quest,Drama,9:00pm,10:59pm,Very High,10000000,6000000
+Tuesday,The explainer,Talk,11:00pm,11:30pm,Moderate,3000000,1800000
+Tuesday,MTV shuga,Entertainment,11:00pm,11:59pm,Moderate,100000,60000
+Wednesday,Afrosinema,Drama,12:00am,12:59am,Very Low,100000,60000
+Wednesday,The explainer,Talk,4:00am,5:29am,Low,500000,300000
+Wednesday,Pambazuka,Entertainment,5:30am,5:59am,Low,3000000,1800000
+Wednesday,Pe at Home,Workout,6:00am,9:59am,Moderate,1000000,600000
+Wednesday,Day Break,Talk,9:00am,9:59am,Low,5000000,3000000
+Wednesday,Cartoons,Kids,10:00am,12:59pm,Low,200000,120000
+Wednesday,Sema na citizen,Talk,1:00pm,1:59pm,Moderate,100000,60000
+Wednesday,News at 1,News,2:00pm,2:59pm,Moderate,11000000,6600000
+Wednesday,Mseto africa,Entertainment,3:00pm,3:59pm,Moderate,10000000,6000000
+Wednesday,Pe at home,Workout,4:00pm,4:14pm,Moderate,6000000,3600000
+Wednesday,News briefs,News,4:15pm,5:29pm,High,14000000,8400000
+Wednesday,Kali ni kali,Entertainment,5:30pm,5:29pm,High,10000000,6000000
+Wednesday,Karibu Milele,Kids,6:00pm,6:59pm,High,15000000,9000000
+Wednesday,Kenya's gold,Educational,7:00pm,7:59pm,Very High,7000000,4200000
+Wednesday,Nipashe TV,News,7:30pm,7:59pm,Very High,16000000,9600000
+Wednesday,Ayana,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Wednesday,Mines of Passion,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Wednesday,Aurora's quest,Drama,9:00pm,10:59pm,Very High,10000000,6000000
+Wednesday,JK Live,Talk,11:00pm,11:59pm,Moderate,3000000,1800000
+Thursday,Afrosinema,Drama,12:00am,12:59am,Very Low,100000,60000
+Thursday,JK Live,Talk,4:00am,5:29am,Low,500000,300000
+Thursday,Pambazuka,Entertainment,5:30am,5:59am,Low,3000000,1800000
+Thursday,Pe at Home,Workout,6:00am,9:59am,Moderate,1000000,600000
+Thursday,Day Break,Talk,9:00am,9:59am,Low,5000000,3000000
+Thursday,Cartoons,Kids,10:00am,12:59pm,Low,200000,120000
+Thursday,Sema na citizen,Talk,1:00pm,1:59pm,Moderate,100000,60000
+Thursday,News at 1,News,2:00pm,2:59pm,Moderate,11000000,6600000
+Thursday,Mseto africa,Entertainment,3:00pm,3:59pm,Moderate,10000000,6000000
+Thursday,Pe at home,Workout,4:00pm,4:14pm,Moderate,6000000,3600000
+Thursday,News briefs,News,4:15pm,5:29pm,High,14000000,8400000
+Thursday,Kali ni kali,Entertainment,5:30pm,5:29pm,High,10000000,6000000
+Thursday,Karibu Milele,Kids,6:00pm,6:59pm,High,15000000,9000000
+Thursday,Kenya's gold,Educational,7:00pm,7:59pm,Very High,7000000,4200000
+Thursday,Nipashe TV,News,7:30pm,7:59pm,Very High,16000000,9600000
+Thursday,Ayana,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Thursday,Mines of Passion,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Thursday,Aurora's quest,Drama,9:00pm,10:59pm,Very High,10000000,6000000
+Thursday,Tonight,Talk,11:00pm,11:59pm,Moderate,3000000,1800000
+Friday,Afrosinema,Drama,12:00am,12:59am,Very Low,100000,60000
+Friday,JK Live,Talk,4:00am,5:29am,Low,500000,300000
+Friday,Pambazuka,Entertainment,5:30am,5:59am,Low,3000000,1800000
+Friday,Pe at Home,Workout,6:00am,9:59am,Moderate,1000000,600000
+Friday,Day Break,Talk,9:00am,9:59am,Low,5000000,3000000
+Friday,Cartoons,Kids,10:00am,12:59pm,Low,200000,120000
+Friday,Sema na citizen,Talk,1:00pm,1:59pm,Moderate,100000,60000
+Friday,News at 1,News,2:00pm,2:59pm,Moderate,11000000,6600000
+Friday,Mseto africa,Entertainment,3:00pm,3:59pm,Moderate,10000000,6000000
+Friday,Pe at home,Workout,4:00pm,4:14pm,Moderate,600000,360000
+Friday,News briefs,News,4:15pm,5:29pm,High,14000000,8400000
+Friday,Kali ni kali,Entertainment,5:30pm,5:29pm,High,10000000,6000000
+Friday,Karibu Milele,Kids,6:00pm,6:59pm,High,15000000,9000000
+Friday,Kenya's gold,Educational,7:00pm,7:59pm,Very High,7000000,4200000
+Friday,Nipashe TV,News,7:30pm,7:59pm,Very High,16000000,9600000
+Friday,Ayana,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Friday,Mines of Passion,Drama,8:00pm,8:59pm,Very High,16000000,9600000
+Friday,Aurora's quest,Drama,9:00pm,10:59pm,Very High,10000000,6000000
+Friday,Friday Night,News,10:00pm,11:59pm,Moderate,3000000,1800000
+Saturday,Roga roga,Entertainment,2:00pm,3:59pm,Moderate,12000000,7200000
+Saturday,Ayana,Drama,4:00pm,6:59pm,Moderate,13000000,7800000
+Saturday,Neema,Drama,7:00pm,7:29pm,High,10000000,6000000
+Saturday,Nipashe TV,News,7:30pm,7:59pm,High,15000000,9000000
+Saturday,Bi.Mswafari,Educational,7:30pm,7:59pm,High,12000000,7200000
+Saturday,Mines of Passion,Drama,8:00pm,8:59pm,Very High,12000000,7200000
+Saturday,The taste off,Educational,9:00pm,9:59pm,Very High,13500000,8100000
+Saturday,Citizen weekend,Entertainment,10:00pm,11:59pm,Moderate,200000,120000
+Sunday,Afrosinema,Drama,1:00am,5:59am,Very High,11500500,6900300
+Sunday,CNN news,News,6:00am,8:59am,Low,10000000,6000000
+Sunday,Ruaka,Entertainment,9:00am,10:59am,Moderate,12500555,7500333
+Sunday,Church service,Talk,11:00am,12:59pm,Moderate,20000000,12000000
+Sunday,Bambika,Entertainment,1:00pm,1:29pm,Moderate,9000000,5400000
+Sunday,News at 1,News,1:30pm,1:59pm,Very High,16000000,9600000
+Sunday,Shamba shape up,Educational,2:00pm,2:39pm,Moderate,12000000,7200000
+Sunday,Jarida la wikendi,News,2:30pm,2:59pm,Moderate,4000000,2400000
+Sunday,Inspecta Mwala,Kids,3:00pm,3:29pm,High,18000000,10800000
+Sunday,Tahidi High,Kids,3:30pm,5:29pm,High,18300300,10980180
+Sunday,The rich also cry,Entertainment,5:30pm,6:29pm,High,4000000,2400000
+Sunday,Weeding show,Entertainment,6:30pm,6:59pm,High,18300300,10980180
+Sunday,Land and Property Diary,Educational,7:00pm,7:29pm,Very High,4000000,2400000
+Sunday,Nipashe TV,News,7:30pm,7:59pm,Very High,18300300,10980180
+Sunday,Mother in law,Kids,8:00pm,8:59pm,Very High,19666600,11799960
+Sunday,Uliza Daktari,Educational,9:00pm,9:59pm,Very High,18000000,10800000
+Sunday,Sunday Live ,News,10:00pm,10:59pm,Moderate,18000000,10800000

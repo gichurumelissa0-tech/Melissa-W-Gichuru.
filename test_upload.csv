@@ -1,0 +1,6 @@
+Show_name,Type_of_show,Popularity,Start_time,End_time,Day_of_the_week
+News Hour,News,High,20:00,21:00,Monday
+Morning Fun,Talk show,Medium,08:00,09:00,Wednesday
+Comedy Nights,Comedy,Low,22:00,23:00,Friday
+Sports Live,Sports ,High,18:30,20:30,Sunday
+Evening Drama,Drama,Medium,19:00,20:00,Tuesday
