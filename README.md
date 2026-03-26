@@ -63,8 +63,7 @@ tv-forecast-dashboard/
 │   ├── rf_revenue.joblib
 │   └── encoders.joblib
 ├── forecast_history.db
-├── requirements.txt
-└── README.md
+
 
 ---
 
